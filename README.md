@@ -1,2 +1,10 @@
-# Algoritma-Pemrograman-2
-Source Code Materi / Praktikum Algoritma Pemrograman 2
+
+# ALGORITMA PEMROGRAMAN RB
+
+## Deskripsi Singkat
+Berisikan kode program praktikum Algoritma Pemrograman RB pada pertemuan 1/10
+
+<br>
+
+### Fitur Branch GITHUB Algoritma Pemrograman 2 :
+- Branch 1 - dst berisikan materi/praktikum setiap pertemuannya
