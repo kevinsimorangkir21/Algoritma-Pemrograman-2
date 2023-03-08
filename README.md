@@ -9,7 +9,7 @@ Repositories Algoritma Pemrograman 2 berisikan source code / hasil program / kod
 - Setelah step 1, maka akan menampilkan branch praktikum (yang berisikan source code setiap pertemuan)
 - Klik branch mana yang mau kunjungi
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Algoritma Pemrograman 2</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinsimorangkir21&label=Profile%20views&color=0e75b6&style=flat" alt="kevinsimorangkir21" /> </p>
 
